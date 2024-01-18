@@ -7,12 +7,13 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan-485255233/](https://www.linkedin.com/in/chen-kefan-485255233/)
 
-- ⚡ Fun fact **Never get lost while traveling**
+- ⚡ Fun fact **Skilled at remembering lyrics but tone-deaf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chen-kefan-485255233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chen-kefan-485255233/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/problemset/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/problemset/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/problemset/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/problemset/" height
+="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
