@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan-485255233/](https://www.linkedin.com/in/chen-kefan-485255233/)
 
-- ⚡ Fun fact **Skilled at remembering lyrics but tone-deaf**
+- ⚡ Fun fact **Walked out of Japan's largest underground labyrinth using Google Maps with a malfunctioning gps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
