@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ariachen1014@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan-485255233/](https://www.linkedin.com/in/chen-kefan/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
 
 - ⚡ Fun fact **Walked out of Japan's largest underground labyrinth using Google Maps with a malfunctioning gps**
 
