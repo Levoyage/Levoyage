@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
 
-- ⚡ Fun fact **Walked out of Japan's largest underground labyrinth using Google Maps with a malfunctioning gps**
+- ⚡ Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
 
 - 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie-Deng]
 (https://github.com/Roxie-Deng)
