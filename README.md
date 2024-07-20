@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chen-kefan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chen-kefan-485255233/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Levoyage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/problemset/" height="30" width="40" /></a>
-<a href="https://levoyage.github.io/" target="blank"><img align="center" src="https://i.ibb.co/6tgx9ZJ/blog.png" alt="https://levoyage.github.io/" height="40" width="40" /></a>
+<a href="https://levoyage.github.io/" target="blank"><img align="center" src="https://i.ibb.co/3dqNhFt/blog-logo.png" alt="https://levoyage.github.io/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
