@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
 
-- 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie-Deng](https://github.com/Roxie-Deng)
+- 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie](https://github.com/Roxie-Deng)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
