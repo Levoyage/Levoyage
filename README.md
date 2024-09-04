@@ -1,18 +1,12 @@
 <h1 align="center">
 Hi 👋, I'm Aria</h1>
-<h3 align="center">A passionate and dedicated student of Software Design and Development</
-h3>
+<h3 align="center">A passionate and dedicated student of Software Design and Development</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, springboot, react, python**
-
 - 📫 How to reach me **ariachen1014@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
-
 - ⚡ Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
-
 - 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie](https://github.com/Roxie-Deng)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://levoyage.github.io" target="blank" ><img align="center" src="https://i.ibb.co/3dqNhFt/blog-logo.png" alt="https://github.com/Levoyage/Levoyage.github.io" height="40" width="40"/></a>
@@ -20,10 +14,6 @@ h3>
 <a href="https://www.linkedin.com/in/chen-kefan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chen-kefan-485255233/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Levoyage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt
 ="https://leetcode.com/problemset/" height="30" width="40" /></a>
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src
 ="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"
@@ -31,7 +21,4 @@ h3>
  </a> <a href="https://www.photoshop.com/en" target
 ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-![Your Repository's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Levoyage&layout=compact&langs_count=8&theme=dark)
-
-
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Levoyage&layout=compact&langs_count=8)
