@@ -7,7 +7,8 @@ Hi 👋, I'm Aria</h1>
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
 - ⚡ Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
 - 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie](https://github.com/Roxie-Deng)
-<h3 align="left">Connect with me:</h3>
+<
+h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://levoyage.github.io" target="blank" ><img align="center" src="https://i.ibb.co/3dqNhFt/blog-logo.png" alt="https://github.com/Levoyage/Levoyage.github.io" height="40" width="40"/></a>
 &nbsp;
@@ -21,4 +22,4 @@ Hi 👋, I'm Aria</h1>
  </a> <a href="https://www.photoshop.com/en" target
 ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Levoyage&layout=compact&langs_count=8&theme=dark)
+
