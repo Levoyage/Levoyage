@@ -7,8 +7,7 @@ Hi 👋, I'm Aria</h1>
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
 - ⚡ Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
 - 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie](https://github.com/Roxie-Deng)
-<
-h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://levoyage.github.io" target="blank" ><img align="center" src="https://i.ibb.co/3dqNhFt/blog-logo.png" alt="https://github.com/Levoyage/Levoyage.github.io" height="40" width="40"/></a>
 &nbsp;
