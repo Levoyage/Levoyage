@@ -5,7 +5,8 @@ Hi 👋, I'm Aria</h1>
 - 🌱 I’m currently learning **Java, JavaScript, springboot, react, python**
 - 📫 How to reach me **ariachen1014@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
-- ⚡ Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
+- 🥳 Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
+
 - 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie](https://github.com/Roxie-Deng)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
