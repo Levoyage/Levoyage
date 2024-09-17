@@ -6,7 +6,7 @@ Hi 👋, I'm Aria</h1>
 - 📫 How to reach me **ariachen1014@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
 - 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie](https://github.com/Roxie-Deng)
-- 🏆 Won 3rd place in the Ireland round of the [2024 #iTwin4Good Championship](https://www.linkedin.com/feed/update/urn:li:activity:7234538738041708547/) with my friend [@Xiaoha](https://github.com/Xiaoha-cloud) & [@YuXia](https://github.com/nanacode4)
+- 🏆 Won 3rd place in the Ireland round of the [2024 #iTwin4Good Championship](https://www.linkedin.com/feed/update/urn:li:activity:7234538738041708547/) with my friend [@Xiaoha](https://github.com/Xiaoha-cloud) & [@YuXia](https://github.com/nanacode4)<br>
   (🚗We made a smart parking management [system]!)(https://github.com/Levoyage/parking-iTwin))
 - 🥳 Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
 <h3 align="left">Connect with me:</h3>
