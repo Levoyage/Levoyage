@@ -8,6 +8,7 @@ Hi 👋, I'm Aria</h1>
 - 🥳 Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
 
 - 💻 Currently work on [iTravel repository](https://github.com/Levoyage/iTravel) with my friend [@Roxie](https://github.com/Roxie-Deng)
+- 🏆 Won 3rd place in the Ireland round of the 2024 #iTwin4Good Championship with my friend [@Xiaoha](https://github.com/Xiaoha-cloud) & [@YuXia](https://github.com/nanacode4)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://levoyage.github.io" target="blank" ><img align="center" src="https://i.ibb.co/3dqNhFt/blog-logo.png" alt="https://github.com/Levoyage/Levoyage.github.io" height="40" width="40"/></a>
