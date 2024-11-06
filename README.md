@@ -5,11 +5,11 @@ Hi 👋, I'm Aria</h1>
 - 🌱 I’m currently learning **Java, JavaScript, springboot, react, python**
 - 📫 How to reach me **ariachen1014@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/chen-kefan/](https://www.linkedin.com/in/chen-kefan/)
-- ✅ Completed several personal projects outside of my coursework **within one year**, including [Comfy-Sloth-E-Commerce](https://github.com/Levoyage/Comfy-Sloth-E-Commerce) & [Employee-Management-Application](https://github.com/Levoyage/Employee-Management-Application) & [2D-game-find-key
-](https://github.com/Levoyage/2D-game-find-key) and also [my blog](https://github.com/Levoyage/levoyage.github.io)!
 - 💻 Just finished [iTravel 1.0 version](https://github.com/Levoyage/iTravel)(An AI itinerary generator) with my friend [@Roxie](https://github.com/Roxie-Deng)
 - 🏆 Won 3rd place in the Ireland round of the [2024 #iTwin4Good Championship](https://www.linkedin.com/feed/update/urn:li:activity:7234538738041708547/) with my friend [@Xiaoha](https://github.com/Xiaoha-cloud) & [@YuXia](https://github.com/nanacode4)<br>
   (🚗We made a smart parking management [system](https://github.com/Levoyage/parking-iTwin)!)
+- ✅ Completed several personal projects outside of my coursework **within one year**, including [Comfy-Sloth-E-Commerce](https://github.com/Levoyage/Comfy-Sloth-E-Commerce) & [Employee-Management-Application](https://github.com/Levoyage/Employee-Management-Application) & [2D-game-find-key
+](https://github.com/Levoyage/2D-game-find-key) and also [my blog](https://github.com/Levoyage/levoyage.github.io)!
 - 🥳 Fun fact **Getting out of Japan's largest underground labyrinth using GPS-missing Google Maps**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
